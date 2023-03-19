@@ -7,7 +7,9 @@
  To run this project:
  download the files from the "code" folder
 
- -ensure that you have a cpp compiler such as clang++ or g++ and doxygen 
+ -ensure that you have a cpp compiler such as clang++ or g++ and doxygen (the c++ version javadoc or jsdoc) :
+ If you are mac user you can refer to [here](https://formulae.brew.sh/formula/doxygen) to install <br>
+ If you are a windows user you can refer to [here](https://www.doxygen.nl/manual/install.html)
 
 -run the following line:
 
