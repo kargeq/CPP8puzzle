@@ -5,6 +5,7 @@
 
 
  To run this project:
+ download the files from the "code" folder
 
  -ensure that you have a cpp compiler such as clang++ or g++ and doxygen 
 
