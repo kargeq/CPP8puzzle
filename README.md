@@ -1,6 +1,6 @@
 # CPP 8 puzzle steps solver - BSF Game
 # Developer: Kareem Ateeqi
- sees how much steps taken to use 8 puzzle using Breadth First Search (BFS)
+ How many steps are taken to use 8 puzzle using Breadth First Search (BFS)?
 
  For information about 8 puzzle click [HERE](https://www.aiai.ed.ac.uk/~gwickler/eightpuzzle-uninf.html):
 
